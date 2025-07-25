@@ -1,1 +1,2 @@
-基于QT、opencv和cars.xml模型实现车流识别，结合haarcascade_frontalface_default.xml模型实现人脸检测，车流检测视频需自备
+#基于QT、opencv和级联分类器cars.xml实现车流识别，以及结合级联分类器haarcascade_frontalface_default.xml实现人脸检测
+    #车流检测视频需自备
